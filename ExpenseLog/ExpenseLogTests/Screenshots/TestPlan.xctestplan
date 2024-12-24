@@ -1,0 +1,55 @@
+{
+  "configurations" : [
+    {
+      "id" : "DA95587D-EA16-40F4-A0DF-462C24F6931E",
+      "name" : "ja",
+      "options" : {
+        "language" : "ja"
+      }
+    },
+    {
+      "id" : "1A6ACF70-7DE9-49F3-B38B-FF44C6114F73",
+      "name" : "en",
+      "options" : {
+        "language" : "en"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "environmentVariableEntries" : [
+      {
+        "key" : "SCREENSHOTS_DIR",
+        "value" : "$(SOURCE_ROOT)\/Screenshots"
+      }
+    ],
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ExpenseLog.xcodeproj",
+      "identifier" : "0E10C6522D004840006082EB",
+      "name" : "ExpenseLog"
+    },
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : {
+        "suites" : [
+          {
+            "name" : "DatabaseTests"
+          },
+          {
+            "name" : "ExpenseLogAPITests"
+          },
+          {
+            "name" : "ReceiptDataFormatterTests"
+          }
+        ]
+      },
+      "target" : {
+        "containerPath" : "container:ExpenseLog.xcodeproj",
+        "identifier" : "0E10C6642D004844006082EB",
+        "name" : "ExpenseLogTests"
+      }
+    }
+  ],
+  "version" : 2
+}

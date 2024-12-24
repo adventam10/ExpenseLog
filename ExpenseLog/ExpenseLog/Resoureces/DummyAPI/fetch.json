@@ -1,0 +1,34 @@
+[
+    {
+        "id":"100000BF-4AAC-48A6-B316-8A533358859B",
+        "date":"20240122",
+        "name":"コーヒー",
+        "price":178,
+        "category":0,
+        "categorySub":1
+    },
+    {
+        "id":"200000BF-4AAC-48A6-B316-8A533358859B",
+        "date":"20240110",
+        "name":"紅茶",
+        "price":200,
+        "category":0,
+        "categorySub":1
+    },
+    {
+        "id":"300000BF-4AAC-48A6-B316-8A533358859B",
+        "date":"20240112",
+        "name":"コーラ",
+        "price":200,
+        "category":0,
+        "categorySub":1
+    },
+    {
+        "id":"400000BF-4AAC-48A6-B316-8A533358859B",
+        "date":"20240115",
+        "name":"ラーメン",
+        "price":1500,
+        "category":0,
+        "categorySub":0
+    }
+]

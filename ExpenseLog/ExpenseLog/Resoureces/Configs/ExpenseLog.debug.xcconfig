@@ -1,0 +1,13 @@
+//
+//  ExpenseLog.debug.xcconfig
+//  ExpenseLog
+//
+//  Created by am10 on 2024/12/16.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = debug-ExpenseLog
+APP_ENVIRONMENT = DEVELOPMENT
+PRODUCT_BUNDLE_IDENTIFIER = am10.ExpenseLog.debug

@@ -1,0 +1,18 @@
+[
+    {
+        "id":"444444BF-4AAC-48A6-B316-8A533358859B",
+        "date":"20240122",
+        "name":"コーヒー",
+        "price":178,
+        "category":0,
+        "categorySub":1
+    },
+    {
+        "id":"555555BF-4AAC-48A6-B316-8A533358859B",
+        "date":"20240210",
+        "name":"紅茶",
+        "price":200,
+        "category":0,
+        "categorySub":1
+    }
+]

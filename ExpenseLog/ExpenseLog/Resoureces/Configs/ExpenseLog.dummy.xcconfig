@@ -1,0 +1,13 @@
+//
+//  ExpenseLog.dummy.xcconfig
+//  ExpenseLog
+//
+//  Created by am10 on 2024/12/16.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = dummy-ExpenseLog
+APP_ENVIRONMENT = DUMMY
+PRODUCT_BUNDLE_IDENTIFIER = am10.ExpenseLog.dummy
